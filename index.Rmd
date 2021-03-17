@@ -1,9 +1,11 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Noah's Python Notes"
+author: "Noah Love"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Brief Summary
+
+These are notes that start at the very beginning of learning python through much more advanced topics. 
 
